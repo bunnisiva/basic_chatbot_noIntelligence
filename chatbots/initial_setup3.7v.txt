@@ -1,0 +1,4 @@
+522  wget https://bootstrap.pypa.io/get-pip.py
+  523  sudo python3.7 get-pip.py
+  524  pip3 --version
+  525  sudo pip install -U nltk
